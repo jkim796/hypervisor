@@ -1,0 +1,5 @@
+*.*~
+vcpu_scheduler
+mem_coordinator
+./cpu/Makefile~
+./mem/Makefile~
