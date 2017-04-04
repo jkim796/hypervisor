@@ -1,6 +1,6 @@
 # hypervisor
 
-There are two parts to this project:  
+This project includes two parts:  
 1. CPU scheduler  
 2. Memory coordinator
 
